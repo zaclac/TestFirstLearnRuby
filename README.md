@@ -1,0 +1,1 @@
+This is my beginner work going through the exercises from testfirst.org/learn_ruby.  Gave me a decent introductory understanding of the thought process behind writing code to pass existing tests, what good tests look like, and why TDD is a real thing.
